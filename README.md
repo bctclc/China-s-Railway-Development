@@ -21,5 +21,9 @@ As for years before 1997, we used ten years as an interval and tried to get 1987
 
 Shanghai library and online second-hand bookstore.
 
+5. Creative Commons:
+
+These datasets are available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please cite as: Sixth Tone, "How Faster Trains Draw China’s Cities Ever Closer".
+
 
 Any questions, please contact: liuchang@sixthtone.com
